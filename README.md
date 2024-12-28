@@ -15,6 +15,7 @@ ng n nombreProyecto
 code nombreProyecto //VSC  
 cd nombreProyecto  
 ng s //levantar proyecto  
+ctrl c //cerrar servidor para cambios
 localhost:4200
 
 
